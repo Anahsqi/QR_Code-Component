@@ -23,8 +23,7 @@ This project is a simple QR code component, designed using modern HTML and CSS p
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
-- Live Site URL: [Live Project](https://your-live-site-url.com)
+- Live Site URL: [Live Project](https://anahsqi.github.io/QR_Code-Component/)
 
 ## My process
 
